@@ -1,0 +1,11 @@
+{
+    "triggerTaskOnSave.on": true,
+    "triggerTaskOnSave.showNotifications": false,
+    "triggerTaskOnSave.tasks": {
+        "build_model": [
+            "*.hs"
+        ],
+    },
+    "haskell.plugin.ghcide-completions.config.snippetsOn": false,
+    "haskell.manageHLS": "GHCup"
+}
